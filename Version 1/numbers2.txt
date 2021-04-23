@@ -1,0 +1,13 @@
+LVI             56  
+LXXXIII         83  
+II              2   
+XIII            13  
+MCLXXXIX        1189
+MMCDXCI         2491
+MMMMDLI         4551
+MMMMCMXCIX      4999
+XIV             14  
+XXXVII          37  
+XCVIII          98  
+CXXI            121 
+CCLVI           256 
